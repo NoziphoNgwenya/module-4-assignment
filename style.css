@@ -1,6 +1,7 @@
 h1{
-    color: blue;
+    color: purple;
+    font-weight:bold;
 }
 p{
-    font-style:italic;
+    font-weight:100;
 }
